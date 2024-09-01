@@ -2,6 +2,8 @@
 
 ## Squad Page ontwerpen en maken
 
+_In het S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
+
 Volg onderstaand fases om jouw squadpage gestructureerd te ontwerpen, aan te passen en op Github te publiceren.
 
 
