@@ -2,6 +2,8 @@
 
 ## Team Canvas
 
+_In de workshop S01W2-01-Workshop-Squadpage wordt uitgelegd wat je moet doen._
+
 Vul met jouw team dit canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
 
 <!--
