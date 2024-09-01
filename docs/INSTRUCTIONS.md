@@ -6,9 +6,6 @@ Ontwerp en maak met je squad een Squad Page met HTML, CSS en JS.
 
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je in een team uitvoert.
 
-In het S01W2-01-Squadpage wordt stap voor stap behandeld wat je moet doen.
-
-
 
 ## Briefing
 
