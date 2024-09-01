@@ -9,11 +9,6 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je in een
 In het S01W2-01-Squadpage wordt stap voor stap behandeld wat je moet doen.
 
 
-Bij deze leertaak hoort de deeltaak:
-- [Your Tribe - Team Canvas](https://github.com/fdnd-task/your-tribe-team-canvas/)
-- [Your Tribe - Responsive Design](https://github.com/fdnd-task/your-tribe-responsive-design/)
-
-
 
 ## Briefing
 
@@ -27,7 +22,17 @@ Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website 
 
 ## Werkwijze
 
+Deze leertaak wordt behandeld in week 2 en 3 van sprint 1. Er worden verschillende workshops aangeboden, met wekelijks een code-design review:
+
+- [Team canvas](team-canvas.md)
+- [Responsive Design](resposnive-design.md)
+- [Visuele Hiërarchie](visuele-hierarchie.md)
+
+
+
+<!--
 Deze taak wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+-->
 
 Volg onderstaand fases om jouw squadpage gestructureerd te ontwerpen, aan te passen en op Github te publiceren.
 
