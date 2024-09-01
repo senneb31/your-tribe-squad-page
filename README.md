@@ -2,7 +2,7 @@
 
 # Squad page
 
-Ontwerp en maak met een team een squadpagina met HTML, CSS en JS.
+Ontwerp en maak met een team een Squad Page met HTML, CSS en JS.
 
 
 ## Licentie
