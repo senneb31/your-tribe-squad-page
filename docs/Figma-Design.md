@@ -1,7 +1,8 @@
 # Your Tribe - Squadpage
 
-## Visuele hiërarchie
+## Figma Design
 
+Visuele hiërarchie toepassen in een Figma design, varieren en dupliceren...
 
 _In de workshop S01W3-01-Visuele-hierarchie wordt uitgelegd wat je moet doen._
 
