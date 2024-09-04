@@ -48,7 +48,6 @@ In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe di
 #### Materiaal 
 
 - [Using media queries op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-- [@media width op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 
