@@ -10,7 +10,7 @@ Schets en maak een responsive design voor je squadpage.
 
 
 
-### Ontwerpen << mag weg
+### Ontwerpen << fases dlc mogen weg
 
 In de ontwerpfase schets je een responsive design voor verschillende scherm-groottes.
 
@@ -32,7 +32,7 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 - [The ideal viewport doesn’t exist](https://viewports.fyi)
 
 
-### Bouwen << mag weg
+### Bouwen << fases dlc mogen weg
 
 In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
 
