@@ -9,20 +9,8 @@ Schets en maak een responsive design voor je squadpage.
 
 
 
-## Doel van deze opdracht
 
-Je leert hoe je een media-query kan gebruiken om een responve design te maken. 
-
-
-## Werkwijze
-
-<img width="1396" alt="image" src="https://github.com/fdnd-task/your-tribe-responsive-design/assets/1391509/5f84493d-32ef-49e5-b52f-f68443d96663">
-
-Deze opdracht gaat over de [ontwerp](#ontwerpen) en [bouw](#bouwen) fase van de Development-lifecycle
-
-
-
-### Ontwerpen
+### Ontwerpen << mag weg
 
 In de ontwerpfase schets je een responsive design voor verschillende scherm-groottes.
 
@@ -44,7 +32,7 @@ In de ontwerpfase schets je een responsive design voor verschillende scherm-groo
 - [The ideal viewport doesn’t exist](https://viewports.fyi)
 
 
-### Bouwen
+### Bouwen << mag weg
 
 In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe dit aan de hand van de breakdownschets.
 
@@ -63,16 +51,6 @@ In de bouwfase werk je jouw schets, zo goed mogelijk, uit in HTML en CSS. Doe di
 - [@media width op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/width)
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-
-
-
-
-## Definition of Done
-
-Deze opdracht is done als:
-
-- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudo-code hebt opgenomen en uitgelegd
-- [ ] je in de code van je squadpage de media-query hebt uitgelegd
 
 
 
