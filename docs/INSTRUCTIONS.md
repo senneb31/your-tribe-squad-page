@@ -40,6 +40,8 @@ Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] je hebt als team het proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) gedocumenteerd in de Wiki
 - [ ] de squad page staat op Github en heeft een live url
-- [ ]  je in de wiki van je squadpage een breakdown schets met CSS pseudo-code hebt opgenomen en uitgelegd
-- [ ]  je in de code van je squadpage de media-query hebt uitgelegd
+- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudo-code hebt opgenomen en uitgelegd
+- [ ] je in de code van je squadpage de media-query hebt uitgelegd
+- [ ] Je hebt verschillende schetsen gemaakt gevarieerd, per schets is beschreven hoe de visuele hierarchie is toegepast
+- [ ] 
 
