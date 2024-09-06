@@ -26,10 +26,6 @@ Gebruik het élke keer als je een nieuwe opdracht met een nieuw team gaat aanpak
 
 N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd teamwerk. Het blijft gedeelde inzet, afstemming en het nemen van verantwoording waar bergen mee worden verzet.
 
-## Aanpak
-
-![opdracht](https://github.com/fdnd-task/your-tribe-team-canvas/assets/685870/368449b7-18f5-42b5-884a-16fd2f0c6960)
-
 
 #### Aanpak
 
