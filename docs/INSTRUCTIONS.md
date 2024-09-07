@@ -9,7 +9,7 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je in een
 
 ## Briefing
 
-Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website kijken potentiele opdrachtgevers. In de squadpagina komen alle visitekaartjes samen. Ontwerp en maak samen met je teamgenoten de squadpagina
+Elke frontender bij FDND zit in een squad. Een squad is een groep van zo'n 25 studenten en docenten binnen de Tribe. Een squad heeft een eigen squadpagina met een overzicht van alle visitekaartjes en interessante plekken op de Amstelcampus. Ontwerp en maak met een team een squadpagina em publiceer dat via Github pages. 
 
 ## Doel van deze opdracht
 
