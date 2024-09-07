@@ -27,23 +27,21 @@ Deze leertaak wordt behandeld in week 2 en 3 van sprint 1. Er worden verschillen
 - [Visuele Hiërarchie](visuele-hierarchie.md)
 
 
-<!--
-Deze taak wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
--->
-
-
-
 ## Definition of Done
 
 Deze opdracht is done als:
 
 - [ ] De squadpage staat op Github en heeft een live url
-- [ ] Je hebt met een team een squad page ontworpen en gemaakt
+- [ ] Je hebt met een team een responsive squad page ontworpen en gemaakt
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in je I Love Web - Learning Log
 - [ ] Je hebt het team-canvas ingevuld en toegevoegd aan de wiki van de repository waar jullie in samenwerken
 - [ ] Je hebt verschillende schetsen gemaakt en feedback gekregen in Github Issues
+- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS, je hebt code uitgelegd en feedback gekregen in Github Issues
+
+<!-- 
 - [ ] Je hebt een media query gebruikt en in de code de media-query uitgelegd
 - [ ] Je hebt verschillende schetsen gemaakt gevarieerd, per schets is beschreven hoe de visuele hierarchie is toegepast
+-->
 
 
 
