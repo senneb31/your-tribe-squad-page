@@ -37,13 +37,13 @@ Deze taak wordt behandeld in het bijhorende college. Deze opdracht gaat over all
 
 Deze opdracht is done als:
 
-- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
-- [ ] Je hebt als team het proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) gedocumenteerd in de Wiki
-- [ ] de squad page staat op Github en heeft een live url
-- [ ] je in de wiki van je squadpage een breakdown schets met CSS pseudo-code hebt opgenomen en uitgelegd
-- [ ] je in de code van je squadpage de media-query hebt uitgelegd
+- [ ] De squadpage staat op Github en heeft een live url
+- [ ] Je hebt met een team een squad page ontworpen en gemaakt
+- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in je I Love Web - Learning Log
+- [ ] Je hebt het team-canvas ingevuld en toegevoegd aan de wiki van de repository waar jullie in samenwerken
+- [ ] Je hebt verschillende schetsen gemaakt en feedback gekregen in Github Issues
+- [ ] Je hebt een media query gebruikt en in de code de media-query uitgelegd
 - [ ] Je hebt verschillende schetsen gemaakt gevarieerd, per schets is beschreven hoe de visuele hierarchie is toegepast
-- [ ] Je hebt het canvas ingevuld en toegevoegd aan de wiki van de repository waar jullie in samenwerken.
 
 
 
