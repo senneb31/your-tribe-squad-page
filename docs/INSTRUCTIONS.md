@@ -19,7 +19,7 @@ Elke squad heeft een eigen squadpagina met een overzicht van alle visitekaartjes
 
 ## Werkwijze
 
-Deze leertaak wordt behandeld in week 2 en 3 van sprint 1. Er worden verschillende workshops aangeboden, met wekelijks een code-design review:
+Deze leertaak wordt behandeld in week 2 en 3 van sprint 1. Er worden verschillende workshops aangeboden, met wekelijks een code-design review op vrijdag:
 
 - [Squad page ontwerpen en maken](squad-page-ontwerpen-en-maken.md)
 - [Team canvas](team-canvas.md)
