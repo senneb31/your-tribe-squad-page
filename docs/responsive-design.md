@@ -59,13 +59,16 @@ Naast dat je de devtools kunt gebruiken kun je natuurlijk ook met je browser hee
 
 #### Bronnen 
 
-- [Beginner guide op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
+- [Beginner guide to Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 - [Viewport meta tag op MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [Gstat counter mobile/desktop/tablet](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide)
 
+
+**Meer lezen over Responsive**
 - [How Much Has The Web Really Changed?](https://www.smashingmagazine.com/2013/05/new-defaults-web-design/)
 - [The New Multi-screen World](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/the-new-multi-screen-world-study/)
 - [The ideal viewport doesn’t exist](https://viewports.fyi)
-- [Gstat counter mobile/desktop/tablet](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide)
+
 
 
