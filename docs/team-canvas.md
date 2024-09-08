@@ -37,7 +37,7 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt ie
 
 2. Bespreek in je team wat de teamleden bij persoonlijke doelen hebben opgeschreven.
 
-3. Vul vervolgens als team de vlakken in -
+3. Vul vervolgens als team de andere vlakken in -
 
 **Rollen en Vaardigheden** (ROLDES & SKILLS): Benoem de rollen en vaardigheden van elk teamlid. Wie is waar (al) goed in? dat is goed om te weten voordat je aan de slag gaat. 
 
