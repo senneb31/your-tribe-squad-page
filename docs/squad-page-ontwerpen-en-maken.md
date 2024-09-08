@@ -1,38 +1,57 @@
 # Your Tribe - Squad Page
 
-## Squad Page ontwerpen en maken
+## Squad Page ontwerpen en maken (Maandag)
 
-_In het S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
+_In de workshop S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
 
-Volg onderstaand fases om jouw squadpage gestructureerd te ontwerpen, aan te passen en op Github te publiceren.
+Volg onderstaand fases om met een team een squadpage te ontwerpen en maken en op Github te publiceren.
 
 
 ### Analyseren
 
-In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
+In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren,  formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen en hoe jullie gaan samenwerken. Ook zet de je de _repository_ klaar waarin jullie gaan werken. Maar je begint altijd met een sprintplanning! 
 
+#### Aanpak Sprintplanning
 
-#### Aanpak analysefase
+Je begint een project altijd met een sprintplanning. Dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht. 
 
-1. Lees de instructies van deze leertaak zorgvuldig door
+1. Lees de instructies van deze leertaak zorgvuldig door 
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen
-3. Vul met jouw team een teamcanvas in om een goed vertrekpunt voor jouw teamproject te hebben
-4. Bespreek met jouw team wat je aan werk verwacht en verdeel het werk. Tip: gebruik hiervoor issues op GitHub
+3. Bespreek met jouw team wat je aan werk verwacht, bekijk [programma.fdnd.nl/static-web/your-tribe](https://programma.fdnd.nl/static-web/your-tribe) en maak een planning. 
 
-#### Materiaal analysefase
 
-- [the Team Canvas (engels)](http://theteamcanvas.com/learn/)
+#### Aanpak Samenwerken
 
+Als je in een team gaat werken is het belangrijk dat jullie afspraken maken over de samenwerking zodat alle teamleden goed op één lijn zitten. 
+Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed vertrekpunt voor jouw teamproject te hebben. Voor het invullen van het Team Canvas is een Workshop met uitleg beschikbaar. 
+
+#### Materiaal Samenwerken
+
+- [Workshop Team Canvas](team-canvas.md)
+
+
+
+#### Aanpak repository klaarzetten
+
+Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in je eigen code en soms zullen jullie de code moeten samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken die alle teamleden gaan forken en downloaden. 
+
+1. Één Teamlid Forkt de leertaak 'Your Tribe Squad Page
+2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_ en voeg je team toe.
+_Dat ziet er in de [lijst Forks](https://github.com/fdnd-task/your-tribe-squad-page/network/members) zo uit_
+![image](https://github.com/user-attachments/assets/9cdd87a7-7c70-4cec-8492-60049690aa26)
+
+4. Nu kunnen de teamleden deze _repository_ Forken en Clonen (downloaden)
+5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen,committen en pushen en als jullie bepaalde code live willen hebben push de code naar de hoofd repository. 
 
 
 ### Ontwerpen
 
-Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerp- beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
-
-Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. 
+Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerp-beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
 Dit is een belangrijk moment in het project.
-(Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.)
+
+<!-- Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen. 
+-->
   
 
 #### Aanpak ontwerpfase
