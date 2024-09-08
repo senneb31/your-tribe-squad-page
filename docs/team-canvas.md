@@ -4,7 +4,7 @@
 
 _In de workshop S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
 
-Vul met jouw team dit canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
+Vul met jouw team een Team Canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
 
 
 Samenwerken is niet makkelijk. 
@@ -12,6 +12,9 @@ Om er voor te zorgen dat je zo soepel mogelijk van start gaat is het handig 'de 
 Zo worden dingen waar rekening mee gehouden moet worden al besproken voor er lastige situaties ontstaan. 
 Een Team Canvas is een hulpmiddel bij het vormen van een nieuw project-team. 
 Gebruik het élke keer als je een nieuwe opdracht met een nieuw team gaat aanpakken.
+
+![image](https://github.com/user-attachments/assets/04f5be6a-08de-4026-91f3-075d80720a12)
+
 
 N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd teamwerk. Het blijft gedeelde inzet, afstemming en het nemen van verantwoording waar bergen mee worden verzet.
 
