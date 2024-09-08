@@ -70,9 +70,9 @@ Eerst ga je met je team de visitekaartjes uit je squad bekijken en inspiratie zo
 
 #### 3. Amstelcampus onderzoeken
 
-Op jullie website moeten ook interessante plekken op de Amstelcampus van de HvA worden getoond. Hiervoor gaan jullie eerst de Amstelcampus onderzoeken! Waar kan je goed werken met een team in de middag? Waar kun je lekker eten? Waar kun je bidden? Waar kun je met een frisbee gooien? Waar is het mooiste uitzicht? Ga met je team rondlopen en schrijf de plekken op. 
+Op jullie website moeten ook interessante plekken op de [Amstelcampus](https://www.hva.nl/locaties/campus/amstelcampus.html) van de HvA worden getoond. Hiervoor gaan jullie eerst de Amstelcampus onderzoeken! Waar kan je goed werken met een team in de middag? Waar kun je lekker eten? Waar kun je bidden? Waar kun je met een frisbee gooien? Waar is het mooiste uitzicht? Ga met je team rondlopen en schrijf de plekken op. 
 
-Er is een fijne werkplek op de 3e verdieping bij CMD, de medialounge, en in het [Kohnstamhuis](https://www.hva.nl/locaties/hva-locaties/kohnstammhuis.html)(KSH) is een "Broedplaats" op de 1e verdieping naast de bibliotheek. Er zijn verschillende plekken waar je koffie kan halen, in het Jakoba Mulderhuis (JMH), in het Benno Premselahuis (BPH) en in het Wibauthuis (WBH), daar is ook een restaurant. Er is een voerbalveldje. Een gymzaal. En in de buurt een supermarkt, de Coffee Company, Bagels and Beans, ... Wat zijn nog meer interessante plekken op de [Amstelcampus](https://www.hva.nl/locaties/campus/amstelcampus.html) om te hangen of om te werken?
+Er is een fijne werkplek op de 3e verdieping bij CMD, de medialounge, en in het [Kohnstamhuis](https://www.hva.nl/locaties/hva-locaties/kohnstammhuis.html)(KSH) is een "Broedplaats" op de 1e verdieping naast de bibliotheek. Er zijn verschillende plekken waar je koffie kan halen, in het Jakoba Mulderhuis (JMH), in het Benno Premselahuis (BPH) en in het Wibauthuis (WBH), daar is ook een restaurant. Er is een voerbalveldje. Een gymzaal. En in de buurt een supermarkt, de Coffee Company, Bagels and Beans, ... Wat zijn nog meer interessante plekken op de Amstelcampus om te hangen of om te werken?
 
 
 #### 4. Schetsen 
