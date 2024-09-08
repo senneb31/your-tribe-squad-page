@@ -9,7 +9,7 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je in een
 
 ## Briefing
 
-Elke squad krijgt een eigen squadpagina met een overzicht van alle visitekaartjes en interessante plekken op de Amstelcampus. Ontwerp en maak met een team een squadpagina en de website via Github pages. 
+Elke squad krijgt een eigen squadpagina met een overzicht van alle visitekaartjes en interessante plekken op de Amstelcampus. Ontwerp en maak met een team een squadpagina en publiceer het online via Github pages. 
 
 ## Doel van deze opdracht
 
