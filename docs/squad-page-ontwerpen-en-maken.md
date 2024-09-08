@@ -2,7 +2,7 @@
 
 ## Squad Page ontwerpen en maken (Maandag)
 
-_In de workshop S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
+_In de workshop S01W2-01-Squad-Page wordt behandeld wat je gaat doen._
 
 Volg onderstaand fases om met een team een squadpage te ontwerpen en maken en op Github te publiceren.
 
