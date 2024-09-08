@@ -47,7 +47,7 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt ie
 
 **Regels en Activiteiten** (RULES & ACTIVITIES) Bedenk een aantal regels waar jullie je als team aan gaan houden. Hoe willen jullie communiceren? Hoe vaak gaan jullie samenkomen? Waar gaan jullie werken?
 
-4. Bewaar jullie Team Canvas in een Issue van jullie _repository_. Zo kun je af en toe terugkijken wat jullie hebben afgesproken. Tussendoor kun je een _comment_ schrijven als er iets is in de samenwerking dat beter kan of goed gaat, zo vergeet je dat niet. Tijdens de retrospect kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgende keer anders kan doen. 
+4. Maak een screenshot van jullie ingevulde Team Canvas en maak een een Issue aan in jullie _repository_. Zo kun je af en toe terugkijken wat jullie hebben afgesproken. Tussendoor kun je een _comment_ schrijven als er iets is in de samenwerking dat beter kan of goed gaat, zo vergeet je dat niet. Tijdens de retrospect kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgende keer anders kan doen. 
 
 
 ##### Bronnen
