@@ -24,14 +24,17 @@ N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd
 Het Team Canvas invullen.
 
 1. Begin met het individuele deel -
-Stel persoonlijke doelen op. Dit kan gaan om over kennis (je wilt iets leren), vaardigheden (je wilt iets kunnen) of houding/gedrag (je wilt iets doen). Geef jouw verwachtingen aan. Wil je 3x per week een standup? Wil je in de SAR werken? Wil je thuis werken? Waar ben jij bij gebaat.. In welke omstandigheid werk jij het prettigst?
+Stel persoonlijke doelen op (GOALS): Dit kan gaan om over kennis (je wilt iets leren), vaardigheden (je wilt iets kunnen) of houding/gedrag (je wilt iets doen). Geef jouw verwachtingen aan. Wil je 3x per week een standup? Wil je in de SAR werken? Wil je thuis werken? Waar ben jij bij gebaat.. In welke omstandigheid werk jij het prettigst?
 
 2. Bespreek in je team de individuele delen
-3. Vul vervolgens als team de andere vlakken in -
-Mensen en rollen: Benoem de specifieke rollen en taken van elk teamlid. Bespreek het belang van deze verdeling. Stel de verdeling bij als blijkt dat het niet werkt.
-Team doelen: Zijn helder en specifiek. Zijn verdeeld in korte- en lange termijn doelen. Zijn meetbaar. Worden geprioriteerd.
-Waarden: Wat maakt ons gelukkig en tevreden? Wat maakt ons trots? Welke waarden kiezen wij? Kunnen wij onze waarden prioriteren? Check het resultaat! Voelen we ons er goed bij?
 
+3. Vul vervolgens als team de vlakken in -
+Rollen en Vaardigheden (ROLDES & SKILLS): Benoem de rollen en vaardigheden van elk teamlid. Wie is waar (al) goed in? dat is goed om te weten voordat je aan de slag gaat. 
+Team doelen (GOALS): Wat wil je als groep bereiken? Probeer dit helder en specifiek te beschrijven. Kun je ze meetbaar maken? Dan kun je tijdens de retrospect bekijken of jullie de doelen hebben gehaald.
+Waarden (VALUES): Wat zijn de gezamenlijke waarden? En wat maakt jullie gelukkig en tevreden? Bedenk met je team wat je goed vindt of fout (wat de normen zijn). 
+Regels en Activieiten (RULES & ACTIVITIES) Bedenk een aantal regels waar jullie je als team aan gaan houden. Hoe willen jullie communiceren? Hoe vaak gaan jullie samenkomen? Waar gaan jullie werken?
+
+4. Bewaar jullie Team Canvas in de wiki van de _repository_. Zo kun je af en toe terugkijken wat jullie hebben afgesproken. En tijdens de retrospect kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgend keer anders kan doen. 
 
 
 ##### Bronnen:
