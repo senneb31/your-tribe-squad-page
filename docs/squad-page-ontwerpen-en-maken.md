@@ -20,6 +20,16 @@ Je begint een project altijd met een sprintplanning. Dan weet je wat de planning
 3. Bespreek met jouw team wat je aan werk verwacht, bekijk [programma.fdnd.nl/static-web/your-tribe](https://programma.fdnd.nl/static-web/your-tribe) en maak een planning. 
 
 
+#### Aanpak repository klaarzetten
+
+Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in je eigen code en soms zullen jullie de code gaan samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken. 
+
+1. Één Teamlid _forkt_ de leertaak 'Your Tribe Squad Page'
+2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_ en voeg je team toe.
+3. Nu kunnen de teamleden deze _repository_ ook _clonen_ (downloaden)
+5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen.
+
+
 #### Aanpak Samenwerken
 
 Als je in een team gaat werken is het belangrijk dat jullie afspraken maken over de samenwerking zodat alle teamleden goed op één lijn zitten. 
@@ -31,14 +41,7 @@ Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed v
 
 
 
-#### Aanpak repository klaarzetten
 
-Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in je eigen code en soms zullen jullie de code gaan samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken. 
-
-1. Één Teamlid _forkt_ de leertaak 'Your Tribe Squad Page'
-2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_ en voeg je team toe.
-3. Nu kunnen de teamleden deze _repository_ ook _clonen_ (downloaden)
-5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen. 
 
 
 ### Ontwerpen
