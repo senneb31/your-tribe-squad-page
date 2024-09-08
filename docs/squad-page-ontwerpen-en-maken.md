@@ -35,7 +35,7 @@ Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed v
 
 Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in je eigen code en soms zullen jullie de code moeten samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken die alle teamleden gaan forken en downloaden. 
 
-1. Één Teamlid Forkt de leertaak 'Your Tribe Squad Page
+1. Één Teamlid _forkt_ de leertaak 'Your Tribe Squad Page'
 2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_ en voeg je team toe.
 3. Nu kunnen de teamleden deze _repository_ ook _clonen_ (downloaden)
 5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen. 
