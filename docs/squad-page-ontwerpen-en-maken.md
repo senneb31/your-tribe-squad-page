@@ -24,7 +24,7 @@ Je begint een project altijd met een sprintplanning. Dan weet je wat de planning
 
 Jullie gaan als team 1 website maken. Jullie maken 1 ontwerp, je werkt soms in je eigen code en soms zullen jullie de code gaan samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken. 
 
-1. Één Teamlid _forkt_ de leertaak 'Your Tribe Squad Page'
+1. Een teamlid _forkt_ de leertaak 'Your Tribe Squad Page'
 2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_ en voeg je team toe.
 3. Nu kunnen de teamleden deze _repository_ ook _clonen_ (downloaden)
 5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen.
