@@ -13,7 +13,7 @@ Met CSS kun je regels schrijven waarmee de browser de website anders toont op ve
 ```css
     @media (min-width: 600px){
         body {
-            background red;
+            background: red;
         }
     }
 ```
