@@ -39,11 +39,11 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt ie
 
 3. Vul vervolgens als team de rest in -
 
-**Rollen en Vaardigheden** (ROLDES & SKILLS): Benoem de rollen en vaardigheden van elk teamlid. Wie is waar (al) goed in? dat is goed om te weten voordat je aan de slag gaat. 
+**Rollen en Vaardigheden** (ROLES & SKILLS): Benoem de rollen en vaardigheden van elk teamlid. Wie is waar (al) goed in? Dat is goed om te weten voordat je aan de slag gaat. 
 
 **Team doelen** (GOALS): Wat wil je als groep bereiken? Probeer dit helder en specifiek te beschrijven. Kun je ze meetbaar maken? Dan kun je tijdens de retrospect bekijken of jullie de doelen hebben gehaald.
 
-**Waarden** (VALUES): Wat zijn de gezamenlijke waarden? En wat maakt jullie gelukkig en tevreden? Bedenk met je team wat je goed vindt of fout (wat de normen zijn). 
+**Waarden** (VALUES): Wat zijn de gezamenlijke waarden? En wat maakt jullie gelukkig en tevreden? Bedenk met je team wat je goed vindt of fout (wat de normen en waarden zijn). 
 
 **Regels en Activiteiten** (RULES & ACTIVITIES) Bedenk een aantal regels waar jullie je als team aan gaan houden. Hoe willen jullie communiceren? Hoe vaak gaan jullie samenkomen? Waar gaan jullie werken?
 
@@ -52,7 +52,7 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt ie
 
 ##### Bronnen
 
-- [the Team Canvas (engels)](http://theteamcanvas.com/learn/)
+- [The Team Canvas (engels)](http://theteamcanvas.com/learn/)
 - [Pro-tip: Een lijst met kernwaarden](https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden)
 - [Miro Board voor deze opdracht](https://miro.com/app/board/uXjVKh1tR08=/)
 
