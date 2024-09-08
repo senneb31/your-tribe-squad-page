@@ -105,6 +105,7 @@ Op basis van je ontwerpschets kan je beginnen met de content in HTML. In eerste 
 1. Alle teamleden werken aan de hand van de breakdownschets de pagina uit in HTML
 2. Ga vervolgens de pagina vormgeven met CSS
 3. Bespreek jullie vorderingen regelmatig, bekijk elkaars code en help elkaar.
+4. ...
 
 
 ### Integreren
@@ -124,6 +125,6 @@ Bespreek jullie vorderingen regelmatig en bedenk hoe je uiteindelijk 1 website k
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever om te bespreken of de opdracht goed is.
 
-Tijdens de code/design review op vrijdag krijgen jullie feedback op je code en ontwerp. Tussendoor kun je ook feedback vragen. Na een test analyseer je de feedback met je team en kun je aan de volgende iteratie beginnen ... 
+Tijdens de code/design review op vrijdag krijgen jullie feedback op je code en ontwerp. Tussendoor kun je ook feedback vragen. Na een test analyseer je de feedback met je team en kun je aan een volgende iteratie beginnen ... 
 
 
