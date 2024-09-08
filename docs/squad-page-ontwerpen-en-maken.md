@@ -80,7 +80,7 @@ Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen, ga je schetsen en 
 1. Schets individueel minstens 4 ideeën voor jullie squadpagina.
 2. Maak gezamenlijk een selectie van de beste ideeën en schets een ontwerp. Pas eventueel elementen aan of combineer ze.
 3. Maak een issue aan bij jullie gezamenlijke fork van de leertaak, geef het de titel "Ontwerp squadpage" en voeg jullie ontwerp toe. Dit is jullie eerste ontwerp dat jullie gaan proberen te bouwen.
-4. Maak dan met je team een breakdown schets van jullie ontwerp. Richt je in eerste instantie op de HTML. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) welke elementen je kan gebruiken. 
+4. Maak dan met je team een breakdown schets van jullie ontwerp. Richt je in eerste instantie op de HTML. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) welke elementen je kan gebruiken, of [bij de vorige leertaak](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/breakdown-schets.md) als je even niet meer weet hoe je een goede breakdown maakt.
 5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
 
 
