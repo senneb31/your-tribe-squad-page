@@ -68,7 +68,7 @@ Eerst ga je met je team de visitekaartjes uit je squad bekijken en inspiratie zo
 2. Bespreek de voorbeelden, wat werkt goed, welke vormen zijn interessant ...
 3. Schets aan de hand van de voorbeelden een paar ideeen hoe jullie de visitekaartjes kunnen tonen.
 
-#### Aanpak Amstelcampus 
+#### Aanpak Amstelcampus onderzoeken
 
 Op jullie website moeten ook interessante plekken op de Amstelcampus worden getoond. Hiervoor gaan jullie eerst de Amstelcampus onderzoeken! Waar kan je goed werken met een team in de middag? Waar kun je lekker eten? Waar kun je bidden? Waar kun je met een frisbee gooien? Waar is het mooiste uitzicht? Ga met je team rondlopen en schrijf de plekken op. 
 
