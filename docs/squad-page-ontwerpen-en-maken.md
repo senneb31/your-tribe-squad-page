@@ -76,19 +76,15 @@ Er is een fijne werkplek op de 3e verdieping bij CMD, de medialounge, en in het 
 
 
 
-
-
 #### Aanpak schetsen 
 
+Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen ga je schetsen en ideeën bedenken. 
 
-Ideeen schetsen
-
-HTML Breakdown maken van de belangrijkste pagina's 
-
-5. Maak een abstracte schets van het ontwerp van de squad page. schets hierbij de verschillende sections (hoofdstukken) van de pagina.
-6. Maak vervolgens per section een breakdownschets van elementen van de betreffende section
-7. Bedenk welke HTML elementen van toepassingen zijn om de schets uit te kunnen werken in HTML
-8. Verwerk de HTML elementen in de schets, met verwijzingen naar de betreffende section
+1. Schets individueel minstens 8 verschillende manieren van de squadpagina.
+2. Maak gezamenlijk een selectie van de beste ideeën en schets een ontwerp. Pas eventueel elementen aan of combineer ze.
+3. Maak een issue aan bij je leertaak, geef het de titel "Ontwerp squadpage" en voeg jullie ontwerp toe. Dit is jullie eerste ontwerp dat jullie gaan proberen te bouwen.
+4. Maak dan met je team een breakdown schets van jullie ontwerp. Richt je in eerste instantie op de HTML. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) welke elementen je kan gebruiken. 
+5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
 
 
 #### Materiaal ontwerpfase
@@ -102,17 +98,14 @@ HTML Breakdown maken van de belangrijkste pagina's
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-Op basis van je ontwerpschets kan je beginnen met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
-
-In eerste instantie bouwen alle teamleden dezelfde pagina's. Daar leer je van. Later kunnen jullie de code samenbrengen. 
+Op basis van je ontwerpschets kan je beginnen met de content in HTML. In eerste instantie bouwen alle teamleden dezelfde pagina's. Later kunnen jullie de code samenbrengen. Codeeer allemaal dezelfde HTML. Als je er achter komt dat de HTML anders moet bespreek dit dan met je team zodat zij dat ook kunnen aanpassen. 
 
 
 #### Aanpak bouwfase
 
-
-1. Werk aan de hand van de breakdownschets de pagina uit in HTML
-2. Geef vervolgens de pagina vorm met CSS
-
+1. Alle teamleden werken aan de hand van de breakdownschets de pagina uit in HTML
+2. Ga vervolgens de pagina vormgeven met CSS
+3. Bespreek jullie vorderingen regelmatig, bekijk elkaars code en help elkaar.
 
 
 ### Integreren
@@ -121,17 +114,14 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 
 #### Aanpak integreerfase
 
-1. 'Push' jouw aanpassingen naar Github (en publiceer via Github pages) 
+1. Zorg dat je je code regelmatig _commit_ en _pusht_ naar _Github_.
+2. Bespreek jullie vorderingen regelmatig en bedenk hoe je uiteindelijk 1 website kan opleveren ... in eerste instantie werken jullie allemaal dezelfde pagina's uit. In de tweede week moeten jullie ervoor zorgen dat er 1 website wordt opgeleverd en gaan jullie aan dezelfde pagina werken.
 
 
 ### Testen
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever om te bespreken of de opdracht goed is.
 
-#### Aanpak testfase
+Tijdens de code/design review op vrijdag krijgen jullie feedback op je code en ontwerp. Tussendoor kun je ook feedback vragen. Na een test analyseer je de feedback met je team en kun je aan de volgende iteratie beginnen ... 
 
-1. Laat jullie squadpagina aan iedereen zien
-2. Noteer feedback
-3. Ga terug naar de analysefase voor een volgende ronde verbeteringen
 
-   
