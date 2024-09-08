@@ -33,7 +33,7 @@ Deze opdracht is done als:
 
 - [ ] De squadpage staat op Github en heeft een live url
 - [ ] Je hebt met een team een responsive squad page ontworpen en gemaakt
-- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in je I Love Web - Learning Log
+- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in jouw I Love Web - Learning Log
 - [ ] Je hebt het team-canvas ingevuld en toegevoegd aan de issues van de repository waar jullie in samenwerken
 - [ ] Je hebt verschillende schetsen gemaakt voor het responsive ontwerp, met een, of meerdere CSS media-query layouts gemaakt en feedback gekregen in Github Issues
 - [ ] Je hebt verschillende variaties geschetst voor de layout en de visuele hiërachie en feedback gekregen in Github Issues
