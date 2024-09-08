@@ -37,11 +37,8 @@ Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in 
 
 1. Één Teamlid Forkt de leertaak 'Your Tribe Squad Page
 2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_ en voeg je team toe.
-_Dat ziet er in de [lijst Forks](https://github.com/fdnd-task/your-tribe-squad-page/network/members) zo uit_
-![image](https://github.com/user-attachments/assets/9cdd87a7-7c70-4cec-8492-60049690aa26)
-
-4. Nu kunnen de teamleden deze _repository_ Forken en Clonen (downloaden)
-5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen,committen en pushen en als jullie bepaalde code live willen hebben push de code naar de hoofd repository. 
+3. Nu kunnen de teamleden deze _repository_ ook _clonen_ (downloaden)
+5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen. 
 
 
 ### Ontwerpen
