@@ -95,12 +95,13 @@ Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen, ga je schetsen en 
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-Op basis van je ontwerpschets kan je beginnen met de content in HTML. In eerste instantie bouwen alle teamleden dezelfde pagina's. Later kunnen jullie de code samenbrengen. Codeeer allemaal dezelfde HTML. Als je er achter komt dat de HTML anders moet bespreek dit dan met je team zodat zij dat ook kunnen aanpassen. 
+Op basis van je ontwerpschets kan je beginnen met de content in HTML. In eerste instantie bouwen alle teamleden dezelfde pagina's. Bespreek met je team hoe je conflicten gaat voorkomen, aangezien je in dezelfde repository werkt. Later kunnen jullie de code samenbrengen. Codeeer allemaal dezelfde HTML. Als je er achter komt dat de HTML anders moet bespreek dit dan met je team zodat zij dat ook kunnen aanpassen. 
 
 
 #### Aanpak bouwfase
 
-1. Alle teamleden werken aan de hand van de breakdownschets dezelfde pagina uit in HTML. Geef de HTMl bestanden een andere naam, anders krijg je conflicten als je je code gaat _comitten_ en _pushen_. 
+1. Alle teamleden werken aan de hand van de breakdownschets dezelfde pagina uit in HTML. 
+<!-- Geef de HTMl bestanden een andere naam, anders krijg je conflicten als je je code gaat _comitten_ en _pushen_. -->
 2. Ga vervolgens de pagina vormgeven met CSS.
 3. Bespreek jullie vorderingen regelmatig, bekijk elkaars code en help elkaar.
 4. ...
