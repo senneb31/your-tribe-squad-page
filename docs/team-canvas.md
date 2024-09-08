@@ -2,7 +2,6 @@
 
 ## Team Canvas (Maandag)
 
-_In de workshop S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
 
 Vul met jouw team een Team Canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
 
