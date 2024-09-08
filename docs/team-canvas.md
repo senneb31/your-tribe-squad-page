@@ -23,7 +23,13 @@ N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd
 
 Het Team Canvas invullen.
 
-1. Begin met het individuele deel -
+0. Zet de Team Canvas in het Miro board. Daar kunnen jullie het canvas invullen.
+
+
+1. Zet in het midden (PURPOSE) de opdracht waar jullie de komende twee weken aan gaan werken. 
+
+
+2. Begin met invullen van het individuele deel -
 
 Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt iets leren), vaardigheden (je wilt iets kunnen) of houding/gedrag (je wilt iets doen). Geef jouw verwachtingen aan. Wil je 3x per week een standup? Wil je in de SAR werken? Wil je thuis werken? Waar ben jij bij gebaat.. In welke omstandigheid werk jij het prettigst?
 
@@ -39,10 +45,11 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt ie
 
 **Regels en Activiteiten** (RULES & ACTIVITIES) Bedenk een aantal regels waar jullie je als team aan gaan houden. Hoe willen jullie communiceren? Hoe vaak gaan jullie samenkomen? Waar gaan jullie werken?
 
-4. Bewaar jullie Team Canvas in de wiki van de _repository_. Zo kun je af en toe terugkijken wat jullie hebben afgesproken. En tijdens de retrospect kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgend keer anders kan doen. 
+4. Bewaar jullie Team Canvas in een Issue van jullie _repository_. Zo kun je af en toe terugkijken wat jullie hebben afgesproken. Tussendoor kun je een _comment_ schrijven als er iets is in de samenwerking dat beter kan of goed gaat, zo vergeet je dat niet. Tijdens de retrospect kunnen jullie evalueren hoe het is gegaan, of jullie je aan de afspraken hebben gehouden en wat je een volgend keer anders kan doen. 
 
 
-##### Bronnen:
+##### Bronnen
+
 - [the Team Canvas (engels)](http://theteamcanvas.com/learn/)
 - [Pro-tip: Een lijst met kernwaarden](https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden)
 
