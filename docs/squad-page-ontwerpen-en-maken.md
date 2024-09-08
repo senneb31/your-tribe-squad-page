@@ -99,8 +99,7 @@ Op basis van je ontwerpschets kan je beginnen met de content in HTML. In eerste 
 
 #### Aanpak bouwfase
 
-1. Alle teamleden werken aan de hand van de breakdownschets dezelfde pagina uit in HTML. 
-<!-- Geef de HTMl bestanden een andere naam, anders krijg je conflicten als je je code gaat _comitten_ en _pushen_. -->
+1. Alle teamleden werken aan de hand van de breakdownschets dezelfde pagina uit in HTML. <!-- Geef de HTMl bestanden een andere naam, anders krijg je conflicten als je je code gaat _comitten_ en _pushen_. -->
 2. Ga vervolgens de pagina vormgeven met CSS.
 3. Bespreek jullie vorderingen regelmatig, bekijk elkaars code en help elkaar.
 4. ...
