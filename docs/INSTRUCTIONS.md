@@ -1,6 +1,6 @@
 # Your Tribe - Squad page
 
-Ontwerp en maak met je squad een Squad Page met HTML, CSS en JS.
+Ontwerp en maak met een team een Squad Page met HTML, CSS en JS.
 
 ## Context
 
