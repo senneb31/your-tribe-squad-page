@@ -14,6 +14,7 @@ Met CSS kun je regels schrijven waarmee de browser de website anders toont op ve
     body {
         background: blue;
     }
+
     @media (min-width: 600px) {
         body {
             background: red;
