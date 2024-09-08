@@ -46,7 +46,7 @@ Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed v
 
 ### Ontwerpen
 
-Bij de start van de ontwerpfase weet je (ongeveer) wat er moet gebeuren om een taak uit te voeren, hoeveel tijd er is, met wie je gaat werken en hoe. In de ontwerpfase neem je ontwerp-beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
+Bij de start van de ontwerpfase weet je (ongeveer) wat er moet gebeuren om een opdracht uit te voeren, hoeveel tijd er is, met wie je gaat werken en hoe. In de ontwerpfase neem je ontwerp-beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
 De opdracht is: **Ontwerp en maak met een team een Squad Page. Op de squadpagina komt een overzicht van alle visite-kaartjes uit de squad en interessante plekken op de Amstelcampus.**
 
