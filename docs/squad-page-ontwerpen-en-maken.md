@@ -11,7 +11,7 @@ Volg onderstaand fases om met een team een squadpage te ontwerpen en maken en op
 
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren,  formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen en hoe jullie gaan samenwerken. Ook zet de je de _repository_ klaar waarin jullie gaan werken. Maar je begint altijd met een sprintplanning! 
 
-#### Aanpak Sprintplanning
+#### Aanpak sprintplanning
 
 Je begint een project altijd met een sprintplanning. Dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht. 
 
@@ -30,12 +30,12 @@ Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in 
 5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen.
 
 
-#### Aanpak Samenwerken
+#### Aanpak samenwerken
 
 Als je in een team gaat werken is het belangrijk dat jullie afspraken maken over de samenwerking zodat alle teamleden goed op één lijn zitten. 
 Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed vertrekpunt voor jouw teamproject te hebben. Voor het invullen van het Team Canvas is een Workshop met uitleg beschikbaar. 
 
-#### Materiaal Samenwerken
+#### Bronnen samenwerken
 
 - [Workshop Team Canvas](team-canvas.md)
 
@@ -46,22 +46,50 @@ Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed v
 
 ### Ontwerpen
 
-Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerp-beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
+Bij de start van de ontwerpfase weet je (ongeveer) wat er moet gebeuren om een taak uit te voeren, hoeveel tijd er is, met wie je gaat werken en hoe. In de ontwerpfase neem je ontwerp-beslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
-Dit is een belangrijk moment in het project.
+De opdracht is: **Ontwerp en maak met een team een Squad Page. Op de squadpagina komt een overzicht van alle visite-kaartjes uit de squad en interessante plekken op de Amstelcampus.**
+
+Eerst ga je met je team de visitekaartjes uit je squad bekijken en inspiratie zoeken. Daarna ga je de Amstelcampus onderzoeken en ideeen schetsen voor jullie website. Daarna kun je gaan bouwen... 
 
 <!-- Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen. 
 -->
   
 
-#### Aanpak ontwerpfase
+#### Aanpak visitekaartjes verzamelen en bekijken
 
-1. Verzamel inspiratie voor overzichtspagina's door _desktop research_ uit te voeren met jouw Squad (doen we samen)
-2. Maak een abstracte schets van het ontwerp van de squad page. schets hierbij de verschillende sections (hoofdstukken) van de pagina.
-3. Maak vervolgens per section een breakdownschets van elementen van de betreffende section
-4. Bedenk welke HTML elementen van toepassingen zijn om de schets uit te kunnen werken in HTML
-5. Verwerk de HTML elementen in de schets, met verwijzingen naar de betreffende section
- 
+1. Verzamel op jullie [Miro board](https://miro.com/app/board/uXjVKh1tR08=/) alle visitekaartjes uit je squad. Maak een screenshot e nplak dit in jullie Miro board.
+2. Bespreek de kaartjes en benoem en beschrijf verschillen en overeenkomsten
+3. Kun je de kaartjes op een bepaalde manier organiseren? Bedenk en probeer verschillende manieren.
+
+#### Aanpak inspratie zoeken
+
+1. Zoek online minimaal 12 voorbeelden van overzichtspagina's met veel informatie. Maak screenshots en voeg ze toe aan jullie Miro board. 
+2. Bespreek de voorbeelden, wat werkt goed, welke vormen zijn interessant ...
+3. Schets aan de hand van de voorbeelden een paar ideeen hoe jullie de visitekaartjes kunnen tonen.
+
+#### Aanpak Amstelcampus 
+
+Op jullie website moeten ook interessante plekken op de Amstelcampus worden getoond. Hiervoor gaan jullie eerst de Amstelcampus onderzoeken! Waar kan je goed werken met een team in de middag? Waar kun je lekker eten? Waar kun je bidden? Waar kun je met een frisbee gooien? Waar is het mooiste uitzicht? Ga met je team rondlopen en schrijf de plekken op. 
+
+Er is een fijne werkplek op de 3e verdieping bij CMD, de medialounge, en in het [Kohnstamhuis](https://www.hva.nl/locaties/hva-locaties/kohnstammhuis.html)(KSH) is een "Broedplaats" op de 1e verdieping naast de bibliotheek. Er zijn verschillende plekken waar je koffie kan halen, in het Jakoba Mulderhuis (JMH), in het Benno Premselahuis (BPH) en in het Wibauthuis (WBH), daar is ook een restaurant. Er is een voerbalveldje. Een gymzaal. En in de buurt een supermarkt, de Coffee Company, Bagels and Beans, ... Wat zijn nog meer interessante plekken op de [Amstelcampus](https://www.hva.nl/locaties/campus/amstelcampus.html) om te hangen of om te werken?
+
+
+
+
+
+#### Aanpak schetsen 
+
+
+Ideeen schetsen
+
+HTML Breakdown maken van de belangrijkste pagina's 
+
+5. Maak een abstracte schets van het ontwerp van de squad page. schets hierbij de verschillende sections (hoofdstukken) van de pagina.
+6. Maak vervolgens per section een breakdownschets van elementen van de betreffende section
+7. Bedenk welke HTML elementen van toepassingen zijn om de schets uit te kunnen werken in HTML
+8. Verwerk de HTML elementen in de schets, met verwijzingen naar de betreffende section
+
 
 #### Materiaal ontwerpfase
  
@@ -74,31 +102,18 @@ Dit is een belangrijk moment in het project.
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in Github en kopieert de repository naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
+Op basis van je ontwerpschets kan je beginnen met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
+
+In eerste instantie bouwen alle teamleden dezelfde pagina's. Daar leer je van. Later kunnen jullie de code samenbrengen. 
+
 
 #### Aanpak bouwfase
 
-<!--
-Project setup met een team?
-[Mastering Issues](https://guides.github.com/features/issues/)
-Samenwerken in GH?
--->
 
 1. Werk aan de hand van de breakdownschets de pagina uit in HTML
 2. Geef vervolgens de pagina vorm met CSS
 
-#### Materiaal bouwfase
 
-- [Clip over CSS font en text properties](https://www.youtube.com/watch?v=RNakAX3rVVw)
-- [Typography for developers](https://css-tricks.com/typography-for-developers/)
-- [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [How to section your HTML](https://css-tricks.com/how-to-section-your-html/)
-- [What the Flexbox clips](https://flexbox.io/)
-- [FlexBox Froggy](https://flexbox.io/)
-- [A guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Making Modern Layouts with CSS Grid | Grid Basics](https://youtu.be/br-0i3U1VCA)
-- [CSS Grid Garden](https://cssgridgarden.com/)
-- [Learn how to use CSS Media Queries in less than 5 minutes](https://youtu.be/2KL-z9A56SQ)
 
 ### Integreren
 
