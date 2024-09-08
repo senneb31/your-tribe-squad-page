@@ -11,7 +11,10 @@ Heb web is niet een statische plek qua verhoudingen, elke device en elke scherm 
 Met CSS kun je regels schrijven waarmee de browser de website anders toont op verschillende verhoudingen. Dit kan zowel in de breedte als de hoogte zijn, of bijv. portrait en landscape mode. Dit doen we met 'media queries': 
 
 ```css
-    @media (min-width: 600px){
+    body {
+        background: blue;
+    }
+    @media (min-width: 600px) {
         body {
             background: red;
         }
