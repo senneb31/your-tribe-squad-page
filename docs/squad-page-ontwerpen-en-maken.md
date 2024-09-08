@@ -27,7 +27,7 @@ Jullie gaan als team 1 website maken. Jullie maken 1 ontwerp, je werkt soms in j
 1. Een teamlid _forkt_ de leertaak 'Your Tribe Squad Page'
 2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_, klik op _collaborators_ en voeg je team toe.
 3. Nu kunnen de teamleden deze _repository_ ook _clonen_ (downloaden)
-5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen.
+5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun aanpassingen en wijzigingen _committen_ en _pushen_ naar jullie gezamenlijke _repository_.
 
 
 #### 3. Team Canvas invullen
@@ -114,8 +114,11 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 
 #### Aanpak integreerfase
 
+Bespreek jullie vorderingen regelmatig en bedenk hoe je uiteindelijk 1 website kan opleveren ... in eerste instantie werken jullie allemaal dezelfde pagina's uit. In de tweede week moeten jullie ervoor zorgen dat er 1 website wordt opgeleverd en gaan jullie aan dezelfde pagina werken.
+
 1. Zorg dat je je code regelmatig _commit_ en _pusht_ naar _Github_.
-2. Bespreek jullie vorderingen regelmatig en bedenk hoe je uiteindelijk 1 website kan opleveren ... in eerste instantie werken jullie allemaal dezelfde pagina's uit. In de tweede week moeten jullie ervoor zorgen dat er 1 website wordt opgeleverd en gaan jullie aan dezelfde pagina werken.
+2. Schrijf goede titels (en beschrijving) van je _commit_ zodat je teamgenoten ook snappen wat er is toegevoegd of aangepast aan jullie repository.
+3. Als een ander een wijziging naar jullie gezamenlijke _repository_ _pusht_ dan krijg je in de Github Desktop app te zien dat een teamlid iets heeft aangepast. Klik op _pull_ om de wijzigingen van je teamgenoot naar je computer te downloaden. 
 
 
 ### Testen
