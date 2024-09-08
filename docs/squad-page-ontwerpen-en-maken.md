@@ -79,7 +79,7 @@ Er is een fijne werkplek op de 3e verdieping bij CMD, de medialounge, en in het 
 
 Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen ga je schetsen en ideeën bedenken. 
 
-1. Schets individueel minstens 8 verschillende manieren van de squadpagina.
+1. Schets individueel minstens 4 ideeën voor jullie squadpagina.
 2. Maak gezamenlijk een selectie van de beste ideeën en schets een ontwerp. Pas eventueel elementen aan of combineer ze.
 3. Maak een issue aan bij je leertaak, geef het de titel "Ontwerp squadpage" en voeg jullie ontwerp toe. Dit is jullie eerste ontwerp dat jullie gaan proberen te bouwen.
 4. Maak dan met je team een breakdown schets van jullie ontwerp. Richt je in eerste instantie op de HTML. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) welke elementen je kan gebruiken. 
