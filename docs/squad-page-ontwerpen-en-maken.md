@@ -4,7 +4,7 @@
 
 _In de workshop S01W2-01-Squad-Page wordt behandeld wat je gaat doen._
 
-Volg onderstaand fases om met een team een squadpage te ontwerpen en maken en op Github te publiceren.
+Volg onderstaand fases om met een team een squadpagina te ontwerpen en maken en op Github te publiceren.
 
 
 ### Analyseren
