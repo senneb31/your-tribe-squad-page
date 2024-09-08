@@ -58,7 +58,7 @@ Dit is een screenshot van Chrome, in de andere browsers zit het knopje misschien
 
 Chrome probeert dan je de volledige verhouding in beeld te geven, dit kan er soms voor zorgen dat het uitgezoomd is (irritant!), gelukkig kun je dit ook instellen door het percentage op 100% te zetten. Over throttling gaan we het een andere keer hebben.
 
-Naast dat je de devtools kunt gebruiken kun je natuurlijk ook met je browser heen en weer slepen om te kijken wat er gebeurt op verschillende verhoudingen. Als je de devtools open hebt staan kun je als heen en weer sleept ook de pixel waardes zien in de rechterbovenhoek van je website, handig als je wilt bepalen wanneer je een breakpoint wilt introduceren. 
+Naast dat je de devtools kunt gebruiken kun je natuurlijk ook met je browser heen en weer slepen om te kijken wat er gebeurt op verschillende verhoudingen. Als je de devtools open hebt staan, kun je als je heen en weer sleept ook de pixel waardes zien in de rechterbovenhoek van je website, handig als je wilt bepalen wanneer je een breakpoint wilt introduceren. 
 
 
 #### Bronnen 
