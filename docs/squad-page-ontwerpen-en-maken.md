@@ -17,7 +17,7 @@ Je begint een project altijd met een sprintplanning. Dan weet je wat de planning
 
 1. Lees de instructies van deze leertaak zorgvuldig door 
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen
-3. Bespreek met jouw team wat je aan werk verwacht en maak een planning op basis van wat er op [programma.fdnd.nl/static-web/your-tribe](https://programma.fdnd.nl/static-web/your-tribe) staat. 
+3. Bespreek met jouw team wat je aan werk verwacht en maak een planning op basis van wat er op [programma website](https://programma.fdnd.nl/static-web/your-tribe) staat, welke workshops staan op het programma, wat heb je nodig voor de code/design review van vrijdag, en wat ga je presenteren tijdens de expo volgende week?
 
 
 #### Aanpak repository klaarzetten
