@@ -120,8 +120,6 @@ Bespreek jullie vorderingen regelmatig en bedenk hoe je uiteindelijk 1 website k
 
 ### Testen
 
-In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever om te bespreken of de opdracht goed is.
-
 Tijdens de code/design review op vrijdag krijgen jullie feedback op je code en ontwerp. Tussendoor kun je ook feedback vragen. Na een test analyseer je de feedback met je team en kun je aan een volgende iteratie beginnen ... 
 
 
