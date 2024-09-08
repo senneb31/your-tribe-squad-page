@@ -75,7 +75,7 @@ Op jullie website moeten ook interessante plekken op de [Amstelcampus](https://w
 Er is een fijne werkplek op de 3e verdieping bij CMD, de medialounge, en in het Kohnstamhuis (KSH) is een "Broedplaats" op de 1e verdieping naast de bibliotheek. Er zijn verschillende plekken waar je koffie kan halen, in het Jakoba Mulderhuis (JMH), in het Benno Premselahuis (BPH) en in het Wibauthuis (WBH), daar is ook een restaurant. Er is een voerbalveldje. Een gymzaal. En in de buurt een supermarkt, de Coffee Company, Bagels and Beans, ... Wat zijn nog meer interessante plekken op de Amstelcampus om te hangen of om te werken?
 
 
-#### 4. Schetsen 
+#### 4. Schetsen en breakdown
 
 Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen ga je schetsen en ideeën bedenken. 
 
@@ -86,9 +86,8 @@ Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen ga je schetsen en i
 5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
 
 
-#### Bronnen ontwerpfase
+#### Bronnen breakdown
 
-- Gebouwen van de [Amstelcampus](https://www.hva.nl/locaties/campus/amstelcampus.html)
 - [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [How to section your HTML](https://css-tricks.com/how-to-section-your-html/)
 
