@@ -11,7 +11,7 @@ Volg onderstaand fases om met een team een squadpage te ontwerpen en maken en op
 
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren,  formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen en hoe jullie gaan samenwerken. Ook zet de je de _repository_ klaar waarin jullie gaan werken. Maar je begint altijd met een sprintplanning! 
 
-#### 1. sprintplanning
+#### 1. Sprintplanning
 
 Je begint een project altijd met een sprintplanning. Dan weet je wat de planning is, wat we de komende weken gaan doen en wat er van je wordt verwacht. 
 
@@ -20,7 +20,7 @@ Je begint een project altijd met een sprintplanning. Dan weet je wat de planning
 3. Bespreek met jouw team wat je aan werk verwacht en maak een planning op basis van wat er op [programma website](https://programma.fdnd.nl/static-web/your-tribe) staat, welke workshops staan op het programma, wat heb je nodig voor de code/design review van vrijdag, en wat ga je presenteren tijdens de expo volgende week?
 
 
-#### 2. repository klaarzetten
+#### 2. Repository klaarzetten
 
 Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in je eigen code en soms zullen jullie de code gaan samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken. 
 
@@ -30,9 +30,9 @@ Jullie gaan als Team 1 website maken. Jullie maken 1 ontwerpt, je werkt soms in 
 5. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun wijzigingen committen en pushen.
 
 
-#### 3. samenwerken
+#### 3. Team Canvas invullen
 
-Als je in een team gaat werken is het belangrijk dat jullie afspraken maken over de samenwerking zodat alle teamleden goed op één lijn zitten. 
+Als je in een team gaat werken is het belangrijk om afspraken te maken over de samenwerking zodat alle teamleden goed op één lijn zitten. 
 Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed vertrekpunt voor jouw teamproject te hebben. Voor het invullen van het Team Canvas is een Workshop met uitleg beschikbaar. 
 
 #### Bronnen samenwerken
