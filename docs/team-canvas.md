@@ -1,21 +1,10 @@
 # Your Tribe - Squadpage
 
-## Team Canvas
+## Team Canvas (Maandag)
 
-_In de workshop S01W2-01-Workshop-Squadpage wordt uitgelegd wat je moet doen._
+_In de workshop S01W2-01-Squad-Page wordt stap voor stap behandeld wat je moet doen._
 
 Vul met jouw team dit canvas in om een goed vertrekpunt voor jouw teamproject te hebben.
-
-<!--
-## Context
-
-Deze deeltaak hoort bij sprint 1 "Your Tribe". Deze opdracht ga je met jouw team uitvoeren.
-
-In de talk S01W2-01-Team-Canvas wordt uitgelegd wat je moet doen.
-
-Deze deeltaak hoort bij de leertaak:
-- [Your Tribe - Squad Page](https://github.com/fdnd-task/your-tribe-squad-page)
--->
 
 
 Samenwerken is niet makkelijk. 
