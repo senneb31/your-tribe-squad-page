@@ -21,10 +21,10 @@ Elke squad heeft een eigen squadpagina met een overzicht van alle visitekaartjes
 
 Deze leertaak wordt behandeld in week 2 en 3 van sprint 1. Er worden verschillende workshops aangeboden, met wekelijks een code-design review op vrijdag:
 
-- [Squad page ontwerpen en maken](squad-page-ontwerpen-en-maken.md)
-- [Team canvas](team-canvas.md)
-- [Responsive Design](responsive-design.md)
-- [Visuele Hiërarchie](visuele-hierarchie.md)
+- [Squad page ontwerpen en maken](squad-page-ontwerpen-en-maken.md) - Maandag
+- [Team canvas](team-canvas.md) - Maandag
+- [Responsive Design](responsive-design.md) - Woensdag
+- [Visuele Hiërarchie](visuele-hierarchie.md) - Week 2
 
 
 ## Definition of Done
@@ -35,7 +35,8 @@ Deze opdracht is done als:
 - [ ] Je hebt met een team een responsive squad page ontworpen en gemaakt
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle en je hebt het proces bijgehouden in je I Love Web - Learning Log
 - [ ] Je hebt het team-canvas ingevuld en toegevoegd aan de wiki van de repository waar jullie in samenwerken
-- [ ] Je hebt verschillende schetsen gemaakt en feedback gekregen in Github Issues
+- [ ] Je hebt verschillende schetsen gemaakt voor het responsive ontwerp, met een, of meerdere CSS media-query layouts gemaakt en feedback gekregen in Github Issues
+- [ ] Je hebt verschillende variaties geschetst voor de layout en de visuele hiërachie en feedback gekregen in Github Issues
 - [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS, je hebt code uitgelegd en feedback gekregen in Github Issues
 
 <!-- 
