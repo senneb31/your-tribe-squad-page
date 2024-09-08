@@ -32,7 +32,7 @@ Schets en maak een responsive design voor je squadpage.
 3. Bepaal het breakpoint, bij welke schermbreedte krijg je een andere layout te zien? Maak aantekeningen op je breakdown schets
 4. Upload je breakdown schets in een issue en leg deze kort uit
 5. Leg je breakdown schets uit aan iemand van je tafel en vraag om feedback, laat de persoon dit bij je issue schrijven
-6. Bouw je squad page met een, of meerdere, media query
+6. Bouw je squad page met één, of meerdere, media query
 7. Test regelmatig in je browser of je media query goed werkt. Test het ook op je mobiel. 
 
 <img width="1054" alt="Breakdownschets met breakpoint" src="https://user-images.githubusercontent.com/1391509/190015653-16903c62-09bc-4047-a186-dc368d18242e.png">
