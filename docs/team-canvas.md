@@ -23,7 +23,7 @@ N.B.: Het invullen van het Team Canvas is natuurlijk geen garantie voor geslaagd
 
 Het Team Canvas invullen.
 
-0. Maak een board in [Miro](https://miro.com/welcome/dWF1bmpSWDN3bFlkNkxiVlBDZ2ZhV2t3MkRwdE5TMm83NlNaanRlMVp1bG1qU0x3UTljYlBHVHFXN0dXMElaV3wzMDc0NDU3MzQ3NTM0NzU3MjgyfDM=?share_link_id=610890557249). Daar kunnen jullie het canvas kopieren en invullen.
+0. Vul het Team Canvas in op [Miro](https://miro.com/app/board/uXjVKh1tR08=/).
 
 
 1. Zet in het midden (PURPOSE) de opdracht waar jullie de komende twee weken aan gaan werken. 
@@ -52,7 +52,7 @@ Stel **persoonlijke doelen** op (GOALS): Dit kan gaan om over kennis (je wilt ie
 
 - [the Team Canvas (engels)](http://theteamcanvas.com/learn/)
 - [Pro-tip: Een lijst met kernwaarden](https://www.desteven.nl/leiderschapsontwikkeling/modern-leiderschap/kernwaarden)
-- [Miro Board voor deze opdracht](https://miro.com/welcome/dWF1bmpSWDN3bFlkNkxiVlBDZ2ZhV2t3MkRwdE5TMm83NlNaanRlMVp1bG1qU0x3UTljYlBHVHFXN0dXMElaV3wzMDc0NDU3MzQ3NTM0NzU3MjgyfDM=?share_link_id=610890557249)
+- [Miro Board voor deze opdracht](https://miro.com/app/board/uXjVKh1tR08=/)
 
 
 
