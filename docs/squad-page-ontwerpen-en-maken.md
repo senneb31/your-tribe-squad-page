@@ -24,8 +24,8 @@ Je begint een project altijd met een sprintplanning. Dan weet je wat de planning
 
 Jullie gaan als team 1 website maken. Jullie maken 1 ontwerp, je werkt soms in je eigen code en soms zullen jullie de code gaan samenvoegen. Die doe je door met je team 1 gezamenlijke _repository_ te gebruiken. 
 
-1. Eén teamlid _forkt_ de leertaak 'Your Tribe Squad Page'.
-2. Voeg de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_, klik op _collaborators_ en voeg je team toe.
+1. Slechts één teamlid _forkt_ de leertaak 'Your Tribe Squad Page' voor deze opdracht.
+2. Deze persoon voegt de teamleden toe als 'Collaborators': Ga naar de settings van de _repository_, klik op _collaborators_ en voeg de GitHub accounts van de overige teamleden toe.
 3. Nu kunnen alle teamleden samenwerken op die _repository_, door deze allemaal te _clonen_ (downloaden).
 4. Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun aanpassingen en wijzigingen _committen_ en _pushen_ naar jullie gezamenlijke _repository_. Dit is een manier van samenwerken in code, via GitHub.
 
@@ -79,7 +79,7 @@ Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen, ga je schetsen en 
 
 1. Schets individueel minstens 4 ideeën voor jullie squadpagina.
 2. Maak gezamenlijk een selectie van de beste ideeën en schets een ontwerp. Pas eventueel elementen aan of combineer ze.
-3. Maak een issue aan bij je leertaak, geef het de titel "Ontwerp squadpage" en voeg jullie ontwerp toe. Dit is jullie eerste ontwerp dat jullie gaan proberen te bouwen.
+3. Maak een issue aan bij de gedeelde leertaak, geef het de titel "Ontwerp squadpage" en voeg jullie ontwerp toe. Dit is jullie eerste ontwerp dat jullie gaan proberen te bouwen.
 4. Maak dan met je team een breakdown schets van jullie ontwerp. Richt je in eerste instantie op de HTML. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) welke elementen je kan gebruiken. 
 5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
 
