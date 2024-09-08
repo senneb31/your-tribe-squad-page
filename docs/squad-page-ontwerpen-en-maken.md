@@ -87,8 +87,9 @@ Nu je (ongeveer) weet wat je op jullie squadpagina kan tonen ga je schetsen en i
 5. Voeg de breakdown schets toe aan het issue met jullie ontwerp. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
 
 
-#### Materiaal ontwerpfase
- 
+#### Bronnen ontwerpfase
+
+- Gebouwen van de [Amstelcampus](https://www.hva.nl/locaties/campus/amstelcampus.html)
 - [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [How to section your HTML](https://css-tricks.com/how-to-section-your-html/)
 
