@@ -15,7 +15,7 @@ Elke squad krijgt een eigen squadpagina met een overzicht van alle visitekaartje
 
 * Samenwerken in een team
 * In een team de dev-lifecycle toepassen 
-* Een squadpagina ontwerpen en maken waarin alle visitekaartjes van de squad samen komen
+* Een squadpagina ontwerpen en maken waarin o.a. alle visitekaartjes van de squad samen komen
 
 ## Werkwijze
 
