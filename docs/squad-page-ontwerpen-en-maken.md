@@ -35,7 +35,7 @@ Jullie gaan als team 1 website maken. Jullie maken 1 ontwerp, je werkt soms in j
 Als je in een team gaat werken is het belangrijk om afspraken te maken over de samenwerking zodat alle teamleden goed op één lijn zitten. 
 Vul met jouw team een [Team Canvas](https://theteamcanvas.com/) in om een goed vertrekpunt voor jouw teamproject te hebben. Voor het invullen van het Team Canvas is een Workshop met uitleg beschikbaar. 
 
-#### Bronnen samenwerken
+#### Bronnen Team Canvas invullen
 
 - [Workshop Team Canvas](team-canvas.md)
 
