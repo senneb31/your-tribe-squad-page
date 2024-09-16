@@ -1,0 +1,29 @@
+body{
+background-color: rgb(187, 187, 218);
+display: grid;
+grid-template-columns:1fr 1fr 1fr; 
+gap:1em; 
+grid-auto-flow:dense;
+}
+div{
+    display: grid;
+grid-template-columns:1fr 1fr; 
+gap:1em; 
+grid-auto-flow:dense;
+
+
+}
+p{
+    display: grid;
+    
+
+
+}
+.button {
+    border: none;
+    color: rgb(30, 10, 10);
+   
+   
+  }
+ 
+  
