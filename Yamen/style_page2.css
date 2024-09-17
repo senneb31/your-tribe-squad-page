@@ -24,16 +24,16 @@ body {
 header {
     position: relative; /* Make buttons positioned relative to this container */
     width: 100%;
-    min-width: ;-width: 100%; /* Adjust this value depending on how wide you want the container */
+    min-width: 100%; /* Adjust this value depending on how wide you want the container */
     margin: 0 auto; /* Ensure the container is centered */
     text-align: center;
 }
 
 /* Style for the main photo */
 .main-photo {
-    width: 100%; /* Take the full width of the header container */
+    width: 50%; /* Take the full width of the header container */
     height: auto;
-    display: block;
+    
 }
 
 /* Navigation button styles */
