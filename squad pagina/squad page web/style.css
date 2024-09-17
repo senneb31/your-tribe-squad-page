@@ -1,0 +1,136 @@
+/* Reset margins and padding for the entire page */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styling for the body */
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px; /* To avoid overlap with the fixed top bar */
+    min-height: 100vh; /* Ensure body takes full height */
+}
+
+/* Main content section */
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20px; /* Space between photo list and info box */
+    flex-grow: 1; /* Allow the main content to take available space */
+}
+
+/* Style the list of photos using CSS Grid */
+ul.photo-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Create a grid with 2 columns */
+    gap: 20px; /* Space between photo items */
+    width: 60%; /* Set width of the photo list */
+}
+
+/* Style each image in the list */
+ul.photo-list li {
+    position: relative;
+    overflow: hidden; /* Ensures hover effect stays inside the image bounds */
+    width: 100%; /* Ensure li takes the full width */
+    height: auto; /* Ensure height adjusts based on content */
+}
+
+/* Style for the invisible empty spaces */
+ul.photo-list li.empty-space {
+    visibility: hidden; /* Makes the empty space completely invisible */
+}
+
+/* Style images */
+ul.photo-list li img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Add hover effect using ::before and ::after for text */
+ul.photo-list li:not(.empty-space)::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 140, 186, 0.7); /* Blue overlay */
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    z-index: 1;
+}
+
+ul.photo-list li:not(.empty-space)::after {
+    content: attr(data-hover-text); /* Display the hover text */
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    text-align: center;
+    z-index: 2;
+}
+
+ul.photo-list li:not(.empty-space):hover::before,
+ul.photo-list li:not(.empty-space):hover::after {
+    opacity: 1;
+}
+
+/* Styling for the info box next to the photo list */
+.info-box {
+    width: 35%; /* Width of the info box */
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.info-box h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.info-box p {
+    font-size: 16px;
+    color: #333;
+}
+
+/* Add padding to the body to ensure content is below the top bar */
+body {
+    padding-top: 60px;
+}
+
+/* Footer with social media icons */
+footer.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60px; /* Set a fixed height */
+    background-color: #f1f1f1;
+    padding: 10px 0;
+    text-align: center;
+    border-top: 1px solid #ccc;
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
