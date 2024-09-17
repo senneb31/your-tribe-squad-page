@@ -1,0 +1,133 @@
+/* Reset margins and padding for the entire page */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling for the workspace page */
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px; /* Add padding to prevent content from overlapping the fixed top bar */
+    min-height: 100vh; /* Ensure body takes full height */
+}
+
+/* Header styling with H1 adjustment */
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+header h1 {
+    font-size: 48px; /* Make the H1 larger */
+    font-weight: bold;
+    text-align: center; /* Center the H1 */
+    margin-bottom: 50px; /* Space between H1 and the main photo */
+}
+
+/* Main photo in the header */
+header img.main-photo {
+    max-width: 75%; /* Reduce the photo size to 75% of its current size */
+    height: auto; /* Maintain the aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center the image */
+    border-radius: 10px; /* Optional: Add rounded corners if desired */
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
+}
+
+/* Style the list of photos using CSS Grid */
+ul.photo-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Create a grid with 2 columns */
+    gap: 20px; /* Space between photo items */
+    width: 100%; /* Ensure the photo list takes full width of its container */
+    max-width: 1200px; /* Limit the width of the grid for larger screens */
+    margin: 0 auto; /* Center the photo list */
+    margin-bottom: 150px; /* Add large space after the photo list */
+}
+
+/* Style each image in the list */
+ul.photo-list li {
+    position: relative;
+    width: 100%; /* Ensure each item takes full width of its grid cell */
+    padding-top: 56.25%; /* Aspect ratio of 16:9 to keep consistent size */
+    overflow: hidden; /* Ensures hover effect stays inside the image bounds */
+    background-color: #f9f9f9; /* Placeholder background */
+}
+
+/* Style images */
+ul.photo-list li img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures images cover the entire space without distortion */
+    display: block;
+    border-radius: 10px; /* Rounded corners for images */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Add hover effect using ::before and ::after for text */
+ul.photo-list li:not(.empty-space)::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 140, 186, 0.7); /* Blue overlay */
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    z-index: 1;
+}
+
+ul.photo-list li:not(.empty-space)::after {
+    content: attr(data-hover-text); /* Display the hover text */
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    text-align: center;
+    z-index: 2;
+}
+
+ul.photo-list li:not(.empty-space):hover::before,
+ul.photo-list li:not(.empty-space):hover::after {
+    opacity: 1;
+}
+
+/* Styling for the info box next to the photo list */
+.info-box {
+    width: 35%; /* Width of the info box */
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 150px; /* Add large space after the info box */
+}
+
+/* Large space between sections in the workspace */
+section, header {
+    margin-bottom: 150px; /* Adds a large space between different sections */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    ul.photo-list {
+        grid-template-columns: 1fr; /* Make it one column on smaller screens */
+    }
+}
