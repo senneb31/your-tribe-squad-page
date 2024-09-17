@@ -45,7 +45,7 @@ a.previous, a.next {
     transform: translateY(-50%); /* Adjust for vertical centering */
     z-index: 10; /* Ensure buttons are above the image */
     font-size: 24px; /* Make the icons visible */
-    color: white; /* Set button text color */
+    color: rgb(255, 255, 255); /* Set button text color */
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for visibility */
     border-radius: 50%; /* Make the buttons round */
     display: flex; /* Ensure buttons have content centered */
