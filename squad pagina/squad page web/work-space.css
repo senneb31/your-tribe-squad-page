@@ -12,7 +12,7 @@ html, body {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #0048ff;
     display: flex;
     flex-direction: column;
     padding-top: 70px; /* Add padding to prevent content from overlapping the fixed top bar */
@@ -115,7 +115,7 @@ ul.photo-list li:not(.empty-space):hover::after {
 .info-box {
     width: 35%; /* Width of the info box */
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #2d14bb;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 150px; /* Add large space after the info box */
 }
