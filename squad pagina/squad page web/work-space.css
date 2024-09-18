@@ -41,6 +41,14 @@ header img.main-photo {
     border-radius: 10px; /* Optional: Add rounded corners if desired */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Add subtle shadow for depth */
 }
+header h2 {
+    font-size: 48px; /* Make the H2 larger */
+    font-weight: bold;
+    text-align: center; /* Center the H2 */
+    margin-bottom: 0px;
+    color:#d55296
+    
+}
 
 /* Style the list of photos using CSS Grid */
 ul.photo-list {
