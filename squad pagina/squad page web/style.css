@@ -26,6 +26,10 @@ body {
     margin-top: 20px;
     gap: 20px; /* Space between photo list and info box */
     flex-grow: 1; /* Allow the main content to take available space */
+    
+} @media (max-width: 768px) { 
+    main-content {margin-bottom: 10px;
+}
 }
 
 /* Style the list of photos using CSS Grid */
@@ -89,7 +93,22 @@ ul.photo-list li:not(.empty-space)::after {
     text-align: center;
     z-index: 2;
 }
+[aria-label="radius en co"] div {
+	
+	transition-duration:1s;
+}
 
+
+
+[aria-label="radius en co"]:hover div {
+	
+	border-radius:50%;
+	background-color:LightSkyBlue; 
+}
+  img:hover {
+    transform: scale(1.1); /* Vergroot de afbeelding iets als je erover hovert */
+  }
+  
 ul.photo-list li:not(.empty-space):hover::before,
 ul.photo-list li:not(.empty-space):hover::after {
     opacity: 1;
@@ -118,6 +137,8 @@ body {
     padding-top: 60px;
 }
 
+
+
 /* Footer with social media icons */
 footer.bottom-bar {
     position: fixed;
@@ -134,3 +155,5 @@ footer.bottom-bar {
     justify-content: center;
     align-items: center;
 }
+
+
