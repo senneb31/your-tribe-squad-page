@@ -79,8 +79,10 @@ main {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    
 }
 
+	
 /* Ensure each photo in the list is styled correctly */
 .photo-list li {
     position: relative;
