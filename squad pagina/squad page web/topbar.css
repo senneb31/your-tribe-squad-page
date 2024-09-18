@@ -1,19 +1,19 @@
-/* Add a background color to the top navigation bar */
+/* Top Bar Styles */
 .topbar {
     width: 100%; /* Full width across the screen */
-    background-color: #2d14bb; /* Light grey background */
+    background-color: #2d14bb; /* Background color */
     padding: 10px;
     text-align: center;
     position: fixed; /* Fixed at the top of the page */
     top: 0;
     left: 0;
-    z-index: 999; /* Ensures top bar is on top of all other elements */
+    z-index: 999; /* Keeps top bar on top */
 }
 
 /* Style the links inside the navigation bar */
 .topbar a {
     display: inline-block;
-    color: rgb(255, 255, 255); /* Black text for links */
+    color: rgb(255, 255, 255); /* White text for links */
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -22,13 +22,13 @@
 
 /* Hover effect for links */
 .topbar a:hover {
-    background-color: #d55296; /* Slightly darker grey */
+    background-color: #d55296; /* Highlight on hover */
     color: rgb(0, 0, 0);
 }
 
 /* Style the active link */
 .topbar a.active {
-    background-color: #d55296; /* Blue background for active page */
+    background-color: #d55296; /* Active link color */
     color: rgb(0, 0, 0);
 }
 
@@ -38,9 +38,8 @@
     border: none;
     font-size: 17px;
     margin-left: 20px; /* Adds space between search bar and links */
-    background-color: #ffffff; /* White background for the search box */
-    border-radius: 5px; /* Slightly rounded corners */
-    
+    background-color: #ffffff; /* White background */
+    border-radius: 5px; /* Rounded corners */
 }
 
 /* Responsive design: stack items vertically on small screens */
@@ -53,6 +52,6 @@
         padding: 14px;
     }
     .topbar input[type="text"] {
-        border: 1px solid #ffffff; /* Add a border for the search bar on small screens */
+        border: 1px solid #ffffff; /* Add a border for small screens */
     }
 }
