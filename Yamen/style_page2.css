@@ -127,3 +127,10 @@ footer.bottom-bar {
     justify-content: center;
     align-items: center;
 }
+
+header h1 {
+    font-size: 48px; 
+    font-weight: bold;
+    text-align: center; /* Center the H1 */
+    margin: 50px 0px 50px;
+}
