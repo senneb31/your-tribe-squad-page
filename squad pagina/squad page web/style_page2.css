@@ -12,7 +12,7 @@ html, body {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #0048ff;
     display: flex;
     flex-direction: column;
     min-width: 500px;
@@ -118,10 +118,10 @@ footer.bottom-bar {
     left: 0;
     width: 100%;
     height: 60px; /* Set a fixed height */
-    background-color: #f1f1f1;
+    background-color: #2d14bb;
     padding: 10px 0;
     text-align: center;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #2d14bb;
     z-index: 100;
     display: flex;
     justify-content: center;

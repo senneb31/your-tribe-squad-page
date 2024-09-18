@@ -105,13 +105,13 @@ ul.photo-list li:not(.empty-space):hover::after {
 }
 
 .info-box h1 {
-    font-size: 24px;
+    font-size: 35px;
     margin-bottom: 10px;
 }
 
 .info-box p {
     font-size: 16px;
-    color: #000000;
+    color: #ffffff;
 }
 
 /* Add padding to the body to ensure content is below the top bar */
