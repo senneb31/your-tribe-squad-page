@@ -27,6 +27,7 @@ header {
     min-width: 100%; /* Adjust this value depending on how wide you want the container */
     margin: 0 auto; /* Ensure the container is centered */
     text-align: center;
+    padding-top: 10px;
 }
 
 /* Style for the main photo */
