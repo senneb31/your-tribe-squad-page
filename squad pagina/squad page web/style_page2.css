@@ -55,12 +55,12 @@ a.previous, a.next {
 
 /* Left button (previous) */
 .previous {
-    left: 10px; /* Position on the left edge of the header container */
+    left: 440px; /* Position on the left edge of the header container */
 }
 
 /* Right button (next) */
 .next {
-    right: 10px; /* Position on the right edge of the header container */
+    right: 440px; /* Position on the right edge of the header container */
 }
 
 /* Main content styling */
