@@ -1,6 +1,6 @@
 // Array of image paths or URLs
 const images = [
-    
+    'Foto-iedereen-squad/Squad1H-Yamen (1).JPG',
     'Foto-iedereen-squad/Squad1H-Anouar.JPG',
     'Foto-iedereen-squad/Squad1H-Anouk.JPG',
     'Foto-iedereen-squad/Squad1H-Aria.JPG',
@@ -31,7 +31,7 @@ const images = [
 'Foto-iedereen-squad/Squad1H-Stella.JPG', 
 'Foto-iedereen-squad/Squad1H-Suleyman.JPG', 
 'Foto-iedereen-squad/Squad1H-Tessa.JPG', 
-'Foto-iedereen-squad/Squad1H-Yamen (1).JPG', 
+, 
 
 
 
