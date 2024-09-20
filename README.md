@@ -5,7 +5,9 @@ Op onze Squad page kan je kijken op verschillende pagina's wij hebben een homepa
 
 Features waar wij trots op zijn op onze website zijn dat wij verschillende pagina's hebben waar je tussen kan switchen, daarnaast de button waarmee je tussen de foto's kan scrollen en wij zijn trots op het design van onze pagina die wij er goed uit vinden zien.
 # Squad page
-https://senneb31.github.io/your-tribe-squad-page/squad pagina/squad page web/
+https://senneb31.github.io/your-tribe-squad-page/squad-pagina/
+
+#Yamen page
 https://senneb31.github.io/your-tribe-squad-page/Yamen/
 
 Ontwerp en maak met een team een Squad Page met HTML, CSS en JS.
