@@ -45,7 +45,7 @@ header h2 {
     font-size: 48px; /* Make the H2 larger */
     font-weight: bold;
     text-align: center; /* Center the H2 */
-    margin-bottom: 0px;
+    margin-top: 150px;
     color:#d55296
     
 }
@@ -131,6 +131,9 @@ ul.photo-list li:not(.empty-space):hover::after {
 /* Large space between sections in the workspace */
 section, header {
     margin-bottom: 150px; /* Adds a large space between different sections */
+}
+.speach {
+    margin: 150px 50px 50px 150px;
 }
 
 /* Responsive Styles */
