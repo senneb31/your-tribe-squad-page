@@ -12,6 +12,7 @@ Features waar wij trots op zijn op onze website zijn dat wij verschillende pagin
 
 
 # Squad page
+
 https://senneb31.github.io/your-tribe-squad-page/squad-pagina/squad-page-web/
 
 # Yamen page
